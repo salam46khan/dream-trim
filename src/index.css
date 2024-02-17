@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.fontKanit {
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+}
+.fontNarmal{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+}
