@@ -1,0 +1,76 @@
+[
+    {
+      "id": "001",
+      "img": "https://example.com/image1.jpg",
+      "service_name": "Haircut",
+      "price": 70,
+      "beneficiary": 30,
+      "view": 250,
+      "details": "Includes wash, cut, and blow-dry."
+    },
+    {
+      "id": "002",
+      "img": "https://example.com/image2.jpg",
+      "service_name": "Massage",
+      "price": 50,
+      "beneficiary": 70,
+      "view": 650,
+      "details": "60 minutes Swedish massage."
+    },
+    {
+      "id": "003",
+      "img": "https://example.com/image3.jpg",
+      "service_name": "Car Wash",
+      "price": 100,
+      "beneficiary": 10,
+      "view": 520,
+      "details": "Exterior and interior cleaning."
+    },
+    {
+      "id": "004",
+      "img": "https://example.com/image4.jpg",
+      "service_name": "House Cleaning",
+      "price": 80,
+      "beneficiary": 12,
+      "view": 850,
+      "details": "2 hours of thorough cleaning."
+    },
+    {
+      "id": "005",
+      "img": "https://example.com/image4.jpg",
+      "service_name": "House Cleaning",
+      "price": 80,
+      "beneficiary": 18,
+      "view": 500,
+      "details": "2 hours of thorough cleaning."
+    },
+    {
+      "id": "006",
+      "img": "https://example.com/image4.jpg",
+      "service_name": "House Cleaning",
+      "price": 180,
+      "beneficiary": 8,
+      "view": 150,
+      "details": "2 hours of thorough cleaning."
+    },
+    {
+      "id": "007",
+      "img": "https://example.com/image4.jpg",
+      "service_name": "House Cleaning",
+      "price": 40,
+      "beneficiary": 70,
+      "view": 190,
+      "details": "2 hours of thorough cleaning."
+    },
+    {
+      "id": "008",
+      "img": "https://example.com/image4.jpg",
+      "service_name": "House Cleaning",
+      "price": 120,
+      "beneficiary": 48,
+      "view": 900,
+      "details": "2 hours of thorough cleaning."
+    }
+  
+  ]
+  

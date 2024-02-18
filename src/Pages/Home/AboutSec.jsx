@@ -4,7 +4,7 @@ import woman from '../../assets/img/women-hair.jpg'
 import MyButton from '../../Components/MyButton';
 const AboutSec = () => {
     return (
-        <div className="py-10 px-2">
+        <div className="py-16 px-2">
             <div className="container mx-auto flex flex-wrap md:flex-nowrap gap-5">
                 <div className="w-full md:w-1/2">
                     <div className=' w-full relative'>
