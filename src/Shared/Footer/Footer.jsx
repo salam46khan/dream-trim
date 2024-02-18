@@ -1,10 +1,14 @@
 import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import MyButton from "../../Components/MyButton";
 const Footer = () => {
     return (
         <div>
             <footer className="footer footer-center p-10 bg-cyan-300 text-base-content rounded">
                 <nav className="grid grid-flow-col gap-4">
+                    <Link to={'/'}>
+                        <MyButton></MyButton>
+                    </Link>
                     <a className="link link-hover">About us</a>
                     <a className="link link-hover">Contact</a>
                     <a className="link link-hover">Jobs</a>
