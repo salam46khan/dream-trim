@@ -1,4 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@100..900&family=Poetsen+One&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* font family style ----------------------- */
+.fontSubTitle {
+    font-family: "Poetsen One", sans-serif;
+}
+
+.fontMainTitle {
+    font-family: "Archivo Black", sans-serif;
+}
+
+.fontNormal {
+    font-family: "Inter", sans-serif;
+}
