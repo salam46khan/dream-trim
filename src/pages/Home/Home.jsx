@@ -1,10 +1,10 @@
-import Banner from "./Sections/Banner";
+import BannerTwo from "./Sections/Banner/BannerTwo";
 
 const Home = () => {
     return (
         <div>
-            <Banner></Banner>
-            <p>hi</p>
+            <BannerTwo></BannerTwo>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita nisi nihil aliquam minima reiciendis voluptatum ullam ipsam, veritatis, saepe necessitatibus dolorum sit a incidunt dicta eligendi enim sint soluta dolorem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo amet quia dolores porro? Sequi dicta beatae ipsam maiores perspiciatis tempora maxime ullam sed libero sapiente eius et excepturi voluptates vero aperiam error qui, quibusdam iste alias. Quia, ex illum deleniti sequi eos id recusandae. Reprehenderit aliquam tempore eius, similique natus possimus iusto error? Doloremque facere aliquam autem, inventore alias assumenda at ad exercitationem maxime temporibus voluptatem laboriosam error qui, numquam provident animi itaque natus neque praesentium, voluptatum cumque. Corporis voluptatibus doloribus eaque! Quisquam perspiciatis quos porro commodi ipsa. Corrupti in tempora, cupiditate rem laudantium officia voluptates. Magnam vitae debitis veritatis distinctio quod dolorem quae repellendus sit consectetur nihil temporibus recusandae officiis illo unde dolore eum ipsum eius possimus delectus facilis earum, rem, velit voluptatem saepe! Quia minima temporibus vitae tenetur explicabo dolor nobis corporis nisi. Error blanditiis fuga aliquam assumenda ex distinctio atque numquam dicta! Mollitia, quibusdam? Velit, minus illo. Autem, blanditiis accusantium placeat tenetur nam itaque vitae mollitia sit perferendis. Non ad vel ex sapiente sequi tenetur eveniet consectetur in, molestiae expedita vitae incidunt itaque corporis voluptatum earum architecto doloremque rerum, rem magni blanditiis quaerat error fugit labore cupiditate. Commodi consectetur officia magnam, exercitationem totam voluptate inventore, dolorem voluptates temporibus itaque corporis. Odit ipsum autem officiis porro eos consequuntur fugit minus aspernatur voluptas, veniam eius doloremque expedita temporibus earum est harum tempora, at aliquid. Tenetur, laboriosam culpa dicta cumque at assumenda praesentium ex consectetur! Ipsum iusto, qui natus nisi facilis asperiores error aliquam atque quod quia vel omnis officia. Ducimus dolore enim fuga. Totam cum quo, nisi quod non, eum et, corrupti dicta ex quasi veritatis perspiciatis? Dignissimos iste quod ipsa nemo, sequi officia esse consequatur earum labore id aspernatur non tenetur, voluptates corrupti ea dolore, eos sint dicta quaerat. Est nobis sit accusantium, illum aliquid assumenda optio? Ipsa!</p>
         </div>
     );
 };

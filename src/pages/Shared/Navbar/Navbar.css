@@ -1,0 +1,32 @@
+#nav a.active{
+    background:none;
+    color: #FD7A29;
+}
+.navItem a{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.navItem a::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0%;
+    height: 10%;
+    background: #FD7A29;
+    transition: 0.5s;
+}
+.navItem a:hover::after{
+    width: 100%;
+}
+.navItem a:hover{
+    background: none;
+}
+.navItem a.active::after{
+    width: 100%;  
+}
+.navItem a:focus{
+    background:none;
+    color: #FD7A29;
+}

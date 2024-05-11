@@ -1,0 +1,19 @@
+.bannerTwo {
+    height: 85vh;
+    width: 100%;
+    background: url('../../../../assets/banner-pc.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+    .bannerTwo {
+        height: 80vh;
+        width: 100%;
+        background:linear-gradient(#0002, #000), url('../../../../assets/banner-mobile.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
